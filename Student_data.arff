@@ -1,0 +1,16 @@
+%my data
+@relation Student_data
+@attribute name string
+@attribute rollno numeric
+@attribute gender {Male, Female}
+@attribute age numeric
+@attribute dept {CSE, ECE, IT, EEE}
+
+@data 
+Harshini, 22, Female, 20, CSE
+Nitish, 37, Male, 21, ECE
+Nikitha, 7, Female, 21, CSE
+Pallavi, 23, Female, 20, IT
+Anish, 19, Male, 19, EEE
+Swapna, 4, Female, 15, ECE
+Vamsi, 89, Male, 23, IT
